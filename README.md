@@ -32,11 +32,3 @@ This is a simple implementation of the **Digital Signature Algorithm (DSA)** usi
   - `Crypto` (if using PyCryptodome)
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/dsa-python.git
-cd dsa-python
